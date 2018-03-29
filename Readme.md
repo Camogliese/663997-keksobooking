@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Таня Родионова](https://up.htmlacademy.ru/javascript/13/user/663997).
-* Наставник: `Неизвестно`.
+* Наставник: Андрей Карякин.
 
 ---
 
